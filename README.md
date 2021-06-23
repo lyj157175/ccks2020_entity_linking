@@ -1,0 +1,2 @@
+# ccks2020_entity_linking
+ccks2020任务二中文短文本实体链指
